@@ -1,0 +1,14 @@
+{
+    "currencyOptions": {
+        "currency": "€",
+        "currency_position": "left",
+        "thousand_separator": ",",
+        "decimal_separator": ".",
+        "number_of_decimals": 3
+    },
+    "theme": {
+        "primary_color": "#FF0000",
+        "secondary_color": "#00FF00",
+        "no_of_column": 2
+    }
+}
