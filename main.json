@@ -1,7 +1,7 @@
 {
     "currencyOptions": {
-        "currency": "€",
-        "currency_position": "left",
+        "currency": "$",
+        "currency_position": "right",
         "thousand_separator": ",",
         "decimal_separator": ".",
         "number_of_decimals": 3
